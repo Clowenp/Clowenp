@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">A passionate AI enthusiast and Software Developer from Canada.</h3>
 <h4>Class of '27 | Computer Science | University of Waterloo</h4>
-
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clowenp" alt="clowenp" /></a> </p>
 
 - 🌱 I’m currently learning **about neural networks!**
