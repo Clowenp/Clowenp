@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **about neural networks!**
 
-- 👨‍💻 A little more about me [Personal Website](https://clowenp.github.io/OwenPan/)
+- 👨‍💻 A little more about me [Personal Website](https://owenpan.netlify.app/)
 
 - 📫 How to reach me **panowenzz@gmail.com**
 
